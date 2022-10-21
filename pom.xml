@@ -16,7 +16,7 @@
     </parent>
 
     <properties>
-        <springboot.version>2.3.2.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <spring-cloud.version>Hoxton.SR9</spring-cloud.version>
         <apollo.version>1.6.0</apollo.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
